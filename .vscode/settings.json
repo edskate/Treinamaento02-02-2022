@@ -1,8 +1,9 @@
 {
               "workbench.colorCustomizations": {
-                            "titleBar.activeBackground": "#89375a"
+                            "titleBar.activeBackground": "#2ad20f"
               },
               "cSpell.words": [
+                            "listems",
                             "Treinamaento"
               ]
 }
